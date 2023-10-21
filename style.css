@@ -21,7 +21,7 @@ h1{
    border: 5%;
 }
 .top-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url(./images/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
@@ -54,7 +54,7 @@ h4{
     color: dimgray;
 }
 .middle-banner{
-    background-image: url(images/_Project.jpg);
+    background-image: url(./images/_Project.jpg);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -65,7 +65,7 @@ h4{
 
 }
 .bottom-banner{
-    background-image: url(images/Untitled\ Project.jpg) ;
+    background-image: url(./images/Untitled\ Project.jpg) ;
     
     background-repeat: no-repeat;
     background-position-x: left;
