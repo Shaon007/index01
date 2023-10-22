@@ -66,9 +66,8 @@ h4{
 }
 .bottom-banner{
     background-image: url(images/Project2.jpg) ;
-    
     background-repeat: no-repeat;
-    background-position-x: left;
+    background-position: left;
 }
 #full-stack{
     border-left: 10px solid;
